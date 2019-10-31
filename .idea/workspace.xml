@@ -18,7 +18,7 @@
   <component name="ProjectId" id="1SZjcczAwYSNxKN4V8PhacwX91h" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pug-lab-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tutorial10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -57,7 +57,8 @@
       <workItem from="1554072747301" duration="8186000" />
       <workItem from="1571611497632" duration="2593000" />
       <workItem from="1571778094196" duration="4754000" />
-      <workItem from="1572212971529" duration="14542000" />
+      <workItem from="1572212971529" duration="17781000" />
+      <workItem from="1572557280088" duration="1301000" />
     </task>
     <servers />
   </component>

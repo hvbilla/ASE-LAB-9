@@ -24,6 +24,6 @@ app.post('/displayDetails', function (req,res) {
    res.render('display_Details',{loginCookie: req.cookies.loginCookie});
 });
 
-app.listen(3000, function(){
+app.listen(process.env.PORT || 3000, function(){
    console.log("Listening to port 3000")
 });
